@@ -36,4 +36,4 @@ Industry-grade **Cheat Engine Forge** gaming solution with hardware monitoring, 
 ---
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
